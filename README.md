@@ -19,6 +19,15 @@ npm run start
 
 You need to have a mongodb instance running.
 
+For instructions on how to install and run mongodb follow this link https://docs.mongodb.com/manual/administration/install-community/
+
+For Mac I just ran
+```shell
+brew tap mongodb/brew
+brew install mongodb-community@4.2
+brew services start mongodb-community@4.2
+```
+
 the application will connect to a mongodb running on `mongodb://localhost:27017/db`
 
 ## Features
