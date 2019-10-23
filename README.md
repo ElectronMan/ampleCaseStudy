@@ -15,8 +15,6 @@ npm install
 npm run start
 ```
 
-Here you should say what actually happens when you execute the code above.
-
 ### Initial Configuration
 
 You need to have a mongodb instance running.
